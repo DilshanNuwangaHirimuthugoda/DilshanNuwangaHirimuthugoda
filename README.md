@@ -10,15 +10,6 @@
 
 - 📫 How to reach me **dilshannuwangahirimuthugoda@gmail.com**
 
-
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DilshanNuwangaHirimuthugoda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DilshanNuwangaHirimuthugoda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dilshan nuwanga hirimuthugoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilshan nuwanga hirimuthugoda" height="30" width="40" /></a>
@@ -38,11 +29,12 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-###
+  <br>
+  
+| ![Dilshan's github stats](https://github-readme-stats.vercel.app/api?username=DilshanNuwangaHirimuthugoda&show_icons=true&theme=tokyonight) | ![Dilshan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DilshanNuwangaHirimuthugoda&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilshanNuwangaHirimuthugoda&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=DilshanNuwangaHirimuthugoda&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/DilshanNuwangaHirimuthugoda/DilshanNuwangaHirimuthugoda/output/snake.svg" alt="Snake animation" />
-
-###
+<br>
 
