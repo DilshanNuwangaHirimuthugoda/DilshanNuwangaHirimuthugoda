@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dilshan Nuwanga Hirimuthugoda</h1>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;AI%20|%20DS%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
 <h3 align="center">I am an undergraduate student of IIT affiliated to Westminster University / Full stack web developer / IT Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshannuwangahirimuthugoda&label=Profile%20views&color=0e75b6&style=flat" alt="dilshannuwangahirimuthugoda" /> </p>
+
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
