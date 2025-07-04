@@ -46,5 +46,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="900" height="400" alt="Animated GIF" />
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="900" height="400" alt="Animated GIF" />
 </p>
